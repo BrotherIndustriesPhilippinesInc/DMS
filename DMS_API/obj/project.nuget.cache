@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6W8ofncFzP0=",
+=======
+  "dgSpecHash": "6Ymr/fMFOeg=",
+>>>>>>> frontEnd
   "success": true,
   "projectFilePath": "C:\\Users\\eronicjo\\source\\repos\\DMS\\DMS_API\\DMS_API.csproj",
   "expectedPackageFiles": [
