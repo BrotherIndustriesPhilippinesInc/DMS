@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AGRAVIAN\\Documents\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj": {}
+    "C:\\Users\\eronicjo\\source\\repos\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AGRAVIAN\\Documents\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj": {
+    "C:\\Users\\eronicjo\\source\\repos\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AGRAVIAN\\Documents\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj",
+        "projectUniqueName": "C:\\Users\\eronicjo\\source\\repos\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj",
         "projectName": "DefectMonitoringSystem",
-        "projectPath": "C:\\Users\\AGRAVIAN\\Documents\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj",
-        "packagesPath": "C:\\Users\\AGRAVIAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AGRAVIAN\\Documents\\DMS\\DefectMonitoringSystem\\obj\\",
+        "projectPath": "C:\\Users\\eronicjo\\source\\repos\\DMS\\DefectMonitoringSystem\\DefectMonitoringSystem.csproj",
+        "packagesPath": "C:\\Users\\eronicjo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eronicjo\\Source\\Repos\\DMS\\DefectMonitoringSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\AGRAVIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eronicjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
