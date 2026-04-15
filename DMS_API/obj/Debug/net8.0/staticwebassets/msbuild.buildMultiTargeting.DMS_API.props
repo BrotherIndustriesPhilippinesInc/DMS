@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DMS_API.props" />
-</Project>
