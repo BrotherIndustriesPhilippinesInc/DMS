@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\DefectMonitoringSystem.props" />
-</Project>
