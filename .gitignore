@@ -6,3 +6,8 @@
 /DefectMonitoringSystem/.vs/DefectMonitoringSystem/CopilotIndices/17.14.1518.61961
 /.vs
 /DefectMonitoringSystem/.vs
+
+.vs/
+[Bb]in/
+[Oo]bj/
+/DefectMonitoringSystem/obj/Debug/net8.0/DefectMonitoringSystem.AssemblyInfo.cs
