@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DMS_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c25f8338a99d32e6f287e792ca3524be408fa51f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9159d9a8371ea0b97b10c0dc89ebff89c7911d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DMS_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DMS_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
